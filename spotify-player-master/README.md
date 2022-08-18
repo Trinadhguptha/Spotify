@@ -53,7 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Authors
 
-| ![João Pedro Schmitz](https://avatars2.githubusercontent.com/u/26466516?v=3&s=150)|
-|:---------------------:|
-|  [João Pedro Schmitz](https://github.com/jpedroschmitz/)   |
 
